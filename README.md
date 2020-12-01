@@ -1,2 +1,2 @@
 # antondev07.github.io
-Simple github static pages for my apis
+simple github static pages for my apis
